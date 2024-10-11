@@ -1,0 +1,37 @@
+body{
+    background-image: url(roblox-a13ff36.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div{
+  border: 1px solid white;
+  height: 500px;
+  width: 390px;
+  background-color: rgb(80, 76, 76);
+  margin-left: 200px;
+}
+.margin{
+    margin-left: 50px;
+    height: 25px;
+    width: 130px;
+    background-color: rgb(95, 90, 90);
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.roblox{
+ height:25px ;
+ width: 300px;
+ margin-left: 50px;
+ margin-top: 10px;
+ background-color: rgb(110, 99, 99);
+ color: white;
+ margin-bottom: 10px;
+}
+#imd{
+  margin-left: 23px;
+  height: 30px;
+  width: 350px;
+  margin-top: 30px;
+}
